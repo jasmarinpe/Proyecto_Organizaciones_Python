@@ -1,4 +1,4 @@
-##Tema de trabajo: Identificación de los patrones de comportamiento de las organizaciones Sociales fortalecidas por la dependencia.
+## Tema de trabajo: Identificación de los patrones de comportamiento de las organizaciones Sociales fortalecidas por la dependencia.
 Descripción:
 Las organizaciones de la sociedad civil y las diversas redes sociales, han sido parte esencial para la gestión social y política de la ciudad, con el aporte de ellas, se han construido y mantenido diversos espacios de participación y desarrollo, hoy se cuenta con una política pública orientada a la construcción colectiva de herramientas para promover el desarrollo, fortalecimiento, acompañamiento, sostenibilidad y la gestión.
 
